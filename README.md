@@ -12,6 +12,6 @@ The resulting keywords: 'buy laptop', 'laptop buy', 'buy mobile', 'mobile buy', 
 
 #SAVE AND UPLOAD
 
-To upload our campaign, you need to save it as a CSV file. Then we will be able to import it to AdWords editor or BingAds editor. There is also the option of pasting the data into the editor if we want, but having easy access to the saved data is great so let's save to a CSV file!
+To upload your campaign, you need to save it as a CSV file. Then we will be able to import it to AdWords editor or BingAds editor. There is also the option of pasting the data into the editor if we want, but having easy access to the saved data is great so let's save to a CSV file!
 
 -----------------------------------------------------------------------------------------------------------------------------------
